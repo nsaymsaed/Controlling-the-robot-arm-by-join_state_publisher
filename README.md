@@ -79,6 +79,7 @@ now you shouls compile the package by this code
 now you can control the motors by this commend
 
 - run this command the widows will apears
+  
   roslaunch robot_arm_pkg check_motors.launch
 
   now you can move it as you like
@@ -86,10 +87,12 @@ now you can control the motors by this commend
 
   ## Gazebo
   write this commend then the window will show to you
+  
  roslaunch robot_arm_pkg check_motors_gazebo.launch
 
  ## MoveIt controlling
  finally write 
+ 
  roslaunch moveit_pkg demo.launch
 
 ## Now you finished, you did a great.
