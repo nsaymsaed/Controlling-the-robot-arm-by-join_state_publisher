@@ -84,14 +84,14 @@ now you can control the motors by this commend
   now you can move it as you like
 
 
-  ##Gazebo
+  ## Gazebo
   write this commend then the window will show to you
  roslaunch robot_arm_pkg check_motors_gazebo.launch
 
- ##MoveIt controlling
+ ## MoveIt controlling
  finally write 
  roslaunch moveit_pkg demo.launch
 
-##Now you finished, you did a great.
+## Now you finished, you did a great.
   
 
